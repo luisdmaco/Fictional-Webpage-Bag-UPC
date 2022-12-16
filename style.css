@@ -29,6 +29,12 @@ p{
     width: 24rem;
 }
 
+.foto-fix-2{
+    height: 100%;
+    text-align: center;
+    max-width: 263px;
+}
+
 .foto-fix{
     height: 34rem;
     text-align: center;
