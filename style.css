@@ -1,0 +1,68 @@
+.header-fix{
+    background-color: #ffd2c7;
+}
+
+.main-fix{
+    background-color: #ffffff;
+}
+
+h1{
+    color: #371f17;
+    font-weight: bolder;
+}
+
+h2{
+    color:#c76838;
+    font-weight: bolder;
+}
+
+h3{
+    color: #b95c2e;
+    font-weight: bolder;
+}
+
+p{
+    color:#8d3113;
+}
+
+#card-fix{
+    width: 24rem;
+}
+
+.foto-fix{
+    height: 34rem;
+    text-align: center;
+}
+
+#app-text-fix{
+    margin-top: 8rem;
+}
+
+.app-img-display{
+    display: flex;
+}
+
+.app-img-fix{
+    display: flex;
+    width: 10rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer ul li{
+    display: inline-block;
+    margin-bottom: 0px;
+
+}
+footer ul li img{
+    padding: 1px 1px;
+    border-radius: 5px;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 0px;
+}
+
+.img-prod-fix{
+    max-width: 263px;
+}
